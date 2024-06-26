@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "express": "^4.13.3",
-    "automation-internal-nils": "^4.13.3"
+    "automation-internal-nils": "^4.13.3",
+    "@nils-automation/doesnotexist": "^1.0.0"
   },
   "engines": {
     "node": "4.0.0"
