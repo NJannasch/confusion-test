@@ -1,0 +1,28 @@
+{
+  "name": "test-sample",
+  "version": "0.2.0",
+  "description": "A sample test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "automation-internal-nils": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NJannasch/confusion-test"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Nils Jannasch",
+  "contributors": [
+  ],
+  "license": "MIT"
+}
