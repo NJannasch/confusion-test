@@ -1,0 +1,4 @@
+
+step:
+  test: |
+    pip3 install inyamlmistake
